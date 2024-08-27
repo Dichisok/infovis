@@ -7,6 +7,5 @@ Se limita a la producción.
 El insumo del tablero de datos proviene de Google Sheet, lo que hace que pueda retroalimentar la info en el tiempo.
 La herramienta de visualizacion seleccionada es Tableu y los graficos son interactivos.
 
-INDICE
 [Dashboard](https://dichisok.github.io/infovis/carpinteria.html)
-[IMAGEN](https://dichisok.github.io/infovis/Akalencho%20Muebles.png)
+
