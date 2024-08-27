@@ -1,4 +1,4 @@
-MUEBLES AKALENCHO
+TABLERO DE CARPINTERIA 
 
 Proyecto personal que incluye la recolección de información histórica a partir de ordenes de compra en PDF. 
 Debido a que incluye información confidencial este tablero público no incluye datos de cliente ni valores de los productos.
