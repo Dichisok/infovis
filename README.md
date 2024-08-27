@@ -4,8 +4,8 @@ Proyecto personal que incluye la recolección de información histórica a parti
 Debido a que incluye información confidencial este tablero público no incluye datos de cliente ni valores de los productos.
 Se limita a la producción.
 
-El insumo del tablero de datos proviene de Google Sheet, lo que hace que pueda retroalimentar la info en el tiempo.
-La herramienta de visualizacion seleccionada es Tableu y los graficos son interactivos.
+El insumo del tablero de datos proviene de Google Sheet, lo que hace que pueda retroalimentar la información en el tiempo.
+La herramienta de visualizacion seleccionada es Tableau y los graficos son interactivos.
 
-[Dashboard](https://dichisok.github.io/infovis/carpinteria.html)
+[IR AL DASHBOARD](https://dichisok.github.io/infovis/carpinteria.html)
 
